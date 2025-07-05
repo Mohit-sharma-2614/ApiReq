@@ -37,7 +37,8 @@ This is a simple Android application built with **Jetpack Compose** that fetches
 
 ## 📸 Screenshots
 
-*(You can add screenshots here later to showcase the UI)*
+### 🏠 Home Screen
+![Home Screen](screenshots/home_screen.png)
 
 ---
 
