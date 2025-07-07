@@ -26,6 +26,44 @@ This is a simple Android application built with **Jetpack Compose** that fetches
 
 ---
 
+## 🧑‍💻 How to Build and Run the App
+
+> You can run this app on any Android emulator or physical device using **Android Studio**.
+
+### ✅ Prerequisites
+
+- Android Studio Hedgehog or higher
+- Android SDK version 33 or above
+- Minimum Android version set in the project: API 24+
+- Stable internet connection (to fetch API data)
+
+### 🧩 Steps to Run the App:
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/your-username/amphibians-app.git
+   cd amphibians-app
+   ```
+
+2. **Open the Project in Android Studio**
+
+   - Launch Android Studio.
+   - Click on **"Open"**, then navigate to the cloned folder.
+
+3. **Build the Project**
+
+   - Android Studio will automatically sync the `build.gradle.kts` files.
+   - If not, click on **File > Sync Project with Gradle Files**.
+
+4. **Run the App on Emulator or Device**
+
+   - Connect your physical device or create a new **Android Virtual Device (AVD)**.
+   - Press **Shift + F10** or click the **Run** ▶️ button.
+   - Select the device or emulator to install the app.
+
+---
+
 ## 📚 What I Learned
 
 1. How to add and configure **Retrofit** and **Hilt** dependencies in `build.gradle.kts`.
